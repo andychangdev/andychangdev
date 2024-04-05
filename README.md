@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there!</h1>
 
 <p>
-  Welcome to my profile! I'm Andy, Front-end developer from Brisbane, Australia. I'm currently a student at <strong><a href="https://coderacademy.edu.au/">Coder Academy</a></strong>. I have a passion for tackling both new and existing projects, always seeking opportunities to enhance my skills. From coding in my PJs to experimenting with new frameworks, I'm on a mission to make the web a cooler place.
+  I'm Andy, Full-stack developer from Brisbane, Australia. I'm currently a student at <strong><a href="https://coderacademy.edu.au/">Coder Academy</a></strong>. I have a passion for tackling both new and existing projects, always seeking opportunities to enhance my skills. From coding in my PJs to experimenting with new frameworks, I'm on a mission to make the web a cooler place.
 
   As a former Graphic Designer, I'll always have a soft spot for design. The space between development and design is where I thrive.
 
   - 🔭 I’m currently working on becoming a Fullstack Developer
-  - 📚 I’m currently learning **Flask and JavaScript**
+  - 📚 I’m currently learning **JavaScript**
   - 🌱 I enjoy brewing tea and cooking
   - 👉 Check out my [portfolio](https://andychang.dev/)
 </p>
@@ -34,8 +34,6 @@ Here are some ideas to get you started:
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="flask" src="https://img.shields.io/badge/-Flask-666666?style=flat-square&logo=flask&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
 <h3>Development Tools:</h3>
