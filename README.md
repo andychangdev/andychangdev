@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there!</h1>
 
 <p>
-  I'm Andy, Full-stack developer from Brisbane, Australia. I'm currently a student at <strong><a href="https://coderacademy.edu.au/">Coder Academy</a></strong>. I have a passion for tackling both new and existing projects, always seeking opportunities to enhance my skills. From coding in my PJs to experimenting with new frameworks, I'm on a mission to make the web a cooler place.
+  I'm Andy, Full-stack developer from Brisbane, Australia. I'm currently a student at <strong><a href="https://coderacademy.edu.au/">Coder Academy</a></strong>. I have a passion for tackling both new and existing projects, and i'm always seeking opportunities to enhance my skills. I also have a soft spot for design. The space between development and design is where I thrive.
 
-  As a former Graphic Designer, I'll always have a soft spot for design. The space between development and design is where I thrive.
-
-  - 🔭 I’m currently working on becoming a Fullstack Developer
+  - 🔭 I’m currently working on a typing test app. 
   - 📚 I’m currently learning **JavaScript**
   - 🌱 I enjoy brewing tea and cooking
   - 👉 Check out my [portfolio](https://andychang.dev/)
