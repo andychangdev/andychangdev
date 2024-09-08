@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there!</h1>
 
 <p>
-  I'm Andy from Australia, and i'm currently studying full-stack web development at <strong><a href="https://coderacademy.edu.au/">Coder Academy</a></strong>. I really enjoy creating delightful user experiences and i'm always seeking opportunities to enhance my skills. I also have a soft spot for design. The space between development and design is where I thrive.
+  I'm Andy from Australia, and i'm a full-stack developer. I really enjoy creating delightful user experiences and i'm always seeking opportunities to enhance my skills. I also have a soft spot for design. The space between development and design is where I thrive.
 
-  - 🔭 I’m currently working on a typing test app. 
-  - 📚 I’m currently learning **Express** and **MongoDB**
-  - 🌱 I enjoy brewing tea and cooking
+  - 🔭 I’m currently working on an emotion tracking app. 
+  - 📚 I’m currently learning **TypeScript** and **Neo4j**.
+  - 🌱 I enjoy cooking and drinking bubble tea.
   - 👉 Check out my [portfolio](https://andychang.dev/)
 </p>
 
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   <img alt="nodeJS" src="https://img.shields.io/badge/-NodeJS-5FA04E?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="express" src="https://img.shields.io/badge/-Express-2B2B2B?style=flat-square&logo=express&logoColor=white" />
   <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white" />
+  <img alt="neo4j" src="https://img.shields.io/badge/-Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
 </p>
 
 <h3>Development Tools:</h3>
